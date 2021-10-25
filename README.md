@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maevans724@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_AO0ijxO1pL_kVHy4fD9i5UA1ez07DR_vhvqyahhklw/edit?usp=sharing](https://docs.google.com/document/d/1_AO0ijxO1pL_kVHy4fD9i5UA1ez07DR_vhvqyahhklw/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vR_tkrY2xhY_9HO3B-fzQSxqgBuN1dFVEtkEQ8rk1ZKc78BGheMHe79pngFgqOwOadaR1bFV-ekDqdH/pub](https://docs.google.com/document/d/1_AO0ijxO1pL_kVHy4fD9i5UA1ez07DR_vhvqyahhklw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
