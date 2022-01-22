@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matthew Evans</h1>
-<h3 align="center">A passionate frontend developer from Greensburg, PA</h3>
+<h3 align="center">A passionate frontend developer from Irwin, PA</h3>
 
 - 🌱 I’m currently learning **React, TypeScript, MUI**
 
