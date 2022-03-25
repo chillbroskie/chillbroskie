@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, MUI**
 
-- 👨‍💻 All of my projects are available at [https://chillbroskie.com/](https://chillbroskie.com/)
+- 👨‍💻 All of my projects are available at [https://matt-evans.net/](https://matt-evans.net/)
 
 - 📫 How to reach me **maevans724@gmail.com**
 
